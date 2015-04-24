@@ -1,0 +1,24 @@
+html {
+    min-height: 100%;
+}
+
+div {
+	width: 55px;
+	height: 55px;
+	background-color: blue;
+	border-radius: 5px;
+	margin: -1px 0.35px;
+	display: inline-block;
+}
+
+#wrapper {
+	margin-left:auto;
+	margin-right:auto;
+	width:80%;
+	background-color: #FFFFFF;
+	display: block;
+}
+
+div:hover {
+	background-color: black;
+}
